@@ -49,3 +49,7 @@ Aceda a plataforma online para diagnosticos completos:
 ## Apoio Tecnico e Consultoria
 
 Para alinhamento estrutural com Normas Europeias de Acessibilidade Web e W3C, contacte os consultores da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
