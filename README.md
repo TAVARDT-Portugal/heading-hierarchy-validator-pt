@@ -1,14 +1,13 @@
 # Verificador de Estrutura de Titulos e Hierarquia H1-H6
 
 [![Verificador Estrutura Titulos](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-estrutura-titulos/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Inspecao da arquitetura de cabecalhos HTML, prevencao de descontinuidades de niveis e conformidade W3C.
 
-Desenvolvido e mantido pela equipa de acessibilidade e semantica web da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela equipa de acessibilidade e semantica web da **TAVARDT Portugal**.
 
----
+***
 
 ## Capacidades de Inspecao de Estrutura de Titulos
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela equipa de acessibilidade e semantica web da **[TAVAR
 * **Visualizacao da Estrutura de Seccoes**: Representacao linear indentada da organizacao semantica de conteudos.
 * **Indice de Qualidade Semantica**: Avaliacao quantitativa de 0 a 100 com recomendacoes de correcao W3C.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python heading_hierarchy_validator.py https://empresa.pt
 Exportacao em formato estruturado JSON:
 
 ```bash
-python heading_hierarchy_validator.py https://empresa.pt --json
+python heading_hierarchy_validator.py https://empresa.pt -json
 ```
 
----
+***
 
 ## Ferramenta Oficial na Web
 
 Aceda a plataforma online para diagnosticos completos:
 
-* **[Verificador de Estrutura de Titulos Oficial](https://tools.tavardt.com/pt/verificador-estrutura-titulos/)**
+* **Verificador de Estrutura de Titulos Oficial**
 * **[Portal TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Apoio Tecnico e Consultoria
 
-Para alinhamento estrutural com Normas Europeias de Acessibilidade Web e W3C, contacte os consultores da **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para alinhamento estrutural com Normas Europeias de Acessibilidade Web e W3C, contacte os consultores da **TAVARDT Portugal**.
