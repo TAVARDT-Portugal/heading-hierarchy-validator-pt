@@ -6,8 +6,6 @@
 
 Inspeção da arquitetura de cabecalhos HTML, prevencao de descontinuidades de niveis e conformidade W3C.
 
-Desenvolvido e mantido pela equipa de acessibilidade e semantica web da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Inspeção de Estrutura de Titulos
@@ -38,15 +36,6 @@ python heading_hierarchy_validator.py https://empresa.pt -json
 
 ***
 
-## Ferramenta Oficial na Web
-
-Aceda a plataforma online para diagnosticos completos:
-
-* **Verificador de Estrutura de Titulos Oficial**
-* **[Portal TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Apoio Tecnico e Consultoria
 
 Para alinhamento estrutural com Normas Europeias de Acessibilidade Web e W3C, contacte os consultores da **TAVARDT Portugal**.
@@ -62,7 +51,7 @@ Para alinhamento estrutural com Normas Europeias de Acessibilidade Web e W3C, co
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o ficheiro [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
